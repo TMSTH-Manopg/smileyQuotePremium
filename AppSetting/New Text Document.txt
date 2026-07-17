@@ -1,0 +1,4 @@
+https://apim-com-dev-sea-01.azure-api.net/smileyqoute/api/campaign/premium-publish-response
+
+
+https://apis-uat.tmsth.net/tmsth-motor/v2/api/test/check-access 

@@ -1,0 +1,13 @@
+# Database Config
+DB_HOST=127.0.0.1
+DB_PORT=1433
+DB_NAME=TestDB
+
+# API Config
+API_URL=https://apis-uat.tmsth.net/smileyqoute/
+API_ENDPOINT=api/campaign/publish-premium-response
+API_KEY=ABC123
+
+# Feature Toggle
+ENABLE_LOG=true
+TIMEOUT=30

@@ -1,0 +1,9 @@
+Apim
+https://apis-uat.tmsth.net/tmsth-motor/v2/api/test/check-access 
+
+SafeSmart
+http://10.65.128.10/API_Motor/SetMotorCampiagnDetail
+
+Qmod
+https://apis-dev.tokiomarinesafety.co.th
+/policy/parameter-setup/v1/api/campaigns/

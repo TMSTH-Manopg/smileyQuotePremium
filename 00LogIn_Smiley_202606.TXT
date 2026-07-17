@@ -1,0 +1,24 @@
+15/06/2026 16:15:33.967     CampaignID : 10018   CampaignIDReference : 82c1ab06
+15/06/2026 16:15:38.117     !UTF-8!{"publishCampaignID":" 10018","Refer":"82c1ab06-da1e-4823-b1d8-d7cdc1a50c28","DateRs":"20260615","TimeRs":"16:15:33.961 ","ErrorRs":"","Status":"INPROGRESS","FileRef":"CampaignID_10018_20260615161537.txt" }
+15/06/2026 16:20:04.901     CampaignID : 10019   CampaignIDReference : 82c1ab06
+15/06/2026 16:20:09.111     !UTF-8!{"publishCampaignID":" 10019","Refer":"82c1ab06-da1e-4823-b1d8-d7cdc1a50c28","DateRs":"20260615","TimeRs":"16:20:04.895 ","ErrorRs":"","Status":"INPROGRESS","FileRef":"CampaignID_10019_20260615162008.txt" }
+15/06/2026 16:29:37.877     CampaignID : 10020   CampaignIDReference : 82c1ab06
+15/06/2026 16:29:41.912     !UTF-8!{"publishCampaignID":" 10020","Refer":"82c1ab06-da1e-4823-b1d8-d7cdc1a50c28","DateRs":"20260615","TimeRs":"16:29:37.871 ","ErrorRs":"","Status":"INPROGRESS","FileRef":"CampaignID_10020_20260615162941.txt" }
+15/06/2026 16:39:40.606     CampaignID : 10021   CampaignIDReference : 82c1ab06
+15/06/2026 16:39:44.636     !UTF-8!{"publishCampaignID":" 10021","Refer":"82c1ab06-da1e-4823-b1d8-d7cdc1a50c28","DateRs":"20260615","TimeRs":"16:39:40.600 ","ErrorRs":"","Status":"INPROGRESS","FileRef":"CampaignID_10021_20260615163944.txt" }
+16/06/2026 08:40:41.861     CampaignID : 10022   CampaignIDReference : 82c1ab06
+16/06/2026 08:40:45.946     !UTF-8!{"publishCampaignID":" 10022","Refer":"82c1ab06-da1e-4823-b1d8-d7cdc1a50c28","DateRs":"20260616","TimeRs":"08:40:41.536 ","ErrorRs":"","Status":"INPROGRESS","FileRef":"CampaignID_10022_20260616084045.txt" }
+16/06/2026 08:46:23.126     CampaignID : 10023   CampaignIDReference : 82c1ab06
+16/06/2026 08:46:27.172     !UTF-8!{"publishCampaignID":" 10023","Refer":"82c1ab06-da1e-4823-b1d8-d7cdc1a50c28","DateRs":"20260616","TimeRs":"08:46:23.119 ","ErrorRs":"","Status":"INPROGRESS","FileRef":"CampaignID_10023_20260616084626.txt" }
+16/06/2026 11:28:49.662     CampaignID : 10024   CampaignIDReference : 82c1ab06
+16/06/2026 11:28:53.895     !UTF-8!{"publishCampaignID":" 10024","Refer":"82c1ab06-da1e-4823-b1d8-d7cdc1a50c28","DateRs":"20260616","TimeRs":"11:28:49.650 ","ErrorRs":"","Status":"INPROGRESS","FileRef":"CampaignID_10024_20260616112853.txt" }
+16/06/2026 14:58:33.895     CampaignID : 10025   CampaignIDReference : 1c277c8b
+16/06/2026 14:58:38.120     !UTF-8!{"publishCampaignID":" 10025","Refer":"1c277c8b-ff92-416b-80c4-437402804727","DateRs":"20260616","TimeRs":"14:58:33.844 ","ErrorRs":"","Status":"INPROGRESS","FileRef":"CampaignID_10025_20260616145837.txt" }
+16/06/2026 15:01:34.387     CampaignID : 10026   CampaignIDReference : 1c277c8b
+16/06/2026 15:01:38.593     !UTF-8!{"publishCampaignID":" 10026","Refer":"1c277c8b-ff92-416b-80c4-437402804727","DateRs":"20260616","TimeRs":"15:01:34.348 ","ErrorRs":"","Status":"INPROGRESS","FileRef":"CampaignID_10026_20260616150138.txt" }
+16/06/2026 15:26:25.931     CampaignID : 10027   CampaignIDReference : 82c1ab06
+16/06/2026 15:26:30.080     !UTF-8!{"publishCampaignID":" 10027","Refer":"82c1ab06-da1e-4823-b1d8-d7cdc1a50c28","DateRs":"20260616","TimeRs":"15:26:25.923 ","ErrorRs":"","Status":"INPROGRESS","FileRef":"CampaignID_10027_20260616152629.txt" }
+18/06/2026 14:40:40.442     CampaignID : 10028   CampaignIDReference : 1c277c8b
+18/06/2026 14:40:44.692     !UTF-8!{"publishCampaignID":" 10028","Refer":"1c277c8b-ff92-416b-80c4-437402804727","DateRs":"20260618","TimeRs":"14:40:40.390 ","ErrorRs":"","Status":"INPROGRESS","FileRef":"CampaignID_10028_20260618144044.txt" }
+18/06/2026 14:55:56.072     CampaignID : 10029   CampaignIDReference : 82c1ab06
+18/06/2026 14:56:00.293     !UTF-8!{"publishCampaignID":" 10029","Refer":"82c1ab06-da1e-4823-b1d8-d7cdc1a50c28","DateRs":"20260618","TimeRs":"14:55:55.725 ","ErrorRs":"","Status":"INPROGRESS","FileRef":"CampaignID_10029_20260618145600.txt" }
