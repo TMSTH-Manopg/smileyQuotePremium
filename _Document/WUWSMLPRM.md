@@ -1,6 +1,6 @@
-# Markdown Specification: SmileyQuote Campaign File Processing
+SmileyQuote Campaign File Processing
 
-**Program:** `SmileyQuote.p`  
+**Program:** `WUWSMLPRM.p`  
 **Process Type:** Background / Batch Process  
 **Purpose:** อ่านรายการ Campaign File จาก SmileyQuote แล้ว Import, Validate และ Upload ข้อมูล Campaign เข้าสู่ระบบ OpenEdge  
 **Owner / Created By:** Manop G.  
@@ -12,7 +12,7 @@
 
 ## 1. Objective
 
-เอกสารนี้อธิบายลำดับการทำงานของโปรแกรม `SmileyQuote.p` ซึ่งทำหน้าที่เป็น Background Process สำหรับอ่านไฟล์ Campaign จาก SmileyQuote โดยทำงานกับข้อมูลในตาราง `gw_safe.fcamp_fil` ที่มีสถานะ `STATUS=NEW` และประเภทงาน `PROC=CAMPAIGN`
+เอกสารนี้อธิบายลำดับการทำงานของโปรแกรม `WUWSMLPRM.p` ซึ่งทำหน้าที่เป็น Background Process สำหรับอ่านไฟล์ Campaign จาก SmileyQuote โดยทำงานกับข้อมูลในตาราง `gw_safe.fcamp_fil` ที่มีสถานะ `STATUS=NEW` และประเภทงาน `PROC=CAMPAIGN`
 
 โปรแกรมจะดำเนินการดังนี้
 
