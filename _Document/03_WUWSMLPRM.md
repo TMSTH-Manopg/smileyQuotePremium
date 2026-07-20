@@ -1,4 +1,4 @@
-# WUWSMLPRM SmileyQuote Campaign File Processing
+#  SmileyQuote Campaign File Processing (WUWSMLPRM)
 
 **Program:** `WUWSMLPRM.p`  
 **Process Type:** Background / Batch Process  
