@@ -1,4 +1,4 @@
-# WUWSMLCAM - SmileyQuote JSON to Campaign File Queue
+# SmileyQuote JSON to Campaign File Queue (WUWSMLCAM.p)
 
 **Program:** `WUW\WUWSMLCAM`  
 **Process Type:** Sub Program / JSON Parser / File Generator / Queue Registrar  
