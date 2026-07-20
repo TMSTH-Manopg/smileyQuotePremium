@@ -1,4 +1,4 @@
-# SmileyQuote Input API Receiver and Background Trigger
+# SmileyQuote Main Input API Receiver and Background Trigger
 
 **Program:** `SmileyQuote.p`  
 **Process Type:** Input API / API Receiver / Background Trigger  
