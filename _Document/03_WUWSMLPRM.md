@@ -1,4 +1,4 @@
-SmileyQuote Campaign File Processing
+# SmileyQuote Campaign File Processing
 
 **Program:** `WUWSMLPRM.p`  
 **Process Type:** Background / Batch Process  
@@ -12,7 +12,8 @@ SmileyQuote Campaign File Processing
 
 ## 1. Objective
 
-เอกสารนี้อธิบายลำดับการทำงานของโปรแกรม `WUWSMLPRM.p` ซึ่งทำหน้าที่เป็น Background Process สำหรับอ่านไฟล์ Campaign จาก SmileyQuote โดยทำงานกับข้อมูลในตาราง `gw_safe.fcamp_fil` ที่มีสถานะ `STATUS=NEW` และประเภทงาน `PROC=CAMPAIGN`
+
+เอกสารนี้อธิบายลำดับการทำงานของโปรแกรม `WUWSMLPRM.p` ซึ่งทำหน้าที่เป็น Background Process หลังจากรัน `runBG_Progress.bat` จะเริ่มทำงานที่โปรแกรมนี้ สำหรับอ่านไฟล์ Campaign จาก SmileyQuote โดยทำงานกับข้อมูลในตาราง `gw_safe.fcamp_fil` ที่มีสถานะ `STATUS=NEW` และประเภทงาน `PROC=CAMPAIGN`
 
 โปรแกรมจะดำเนินการดังนี้
 
